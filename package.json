@@ -1,0 +1,7 @@
+{
+  "name": "gamified-ai-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^3.4.0"
+  }
+}
